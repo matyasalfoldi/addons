@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: AutoRoller
+## Notes: Rolls automatically for loot that pops up
+## Author: Gam
+## Version: 0.0.1
+
+AutoRoller.lua

@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: AutoLooter
+## Notes: Loots at least green quality loot.
+## Author: Gam
+## Version: 0.0.1
+
+AutoLooter.lua
